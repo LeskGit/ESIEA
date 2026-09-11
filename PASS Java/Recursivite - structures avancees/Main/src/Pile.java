@@ -52,6 +52,27 @@ public class Pile {
         return word;
     }
 
+    public void empilerMot(String word) {
+        for (int i = 0; i < word.length(); i++) {
+            char temp = word.charAt(i);
+            this.empiler(String.valueOf(temp));
+        }
+    }
+
+    public String resolveReverseWord() {
+        String temp = this.resolveWord();
+        StringBuilder word = new StringBuilder();
+        int taille = this.getSize();
+
+        for (int i = 0; i<taille; i++) {
+            word.append(this.depiler());
+        }
+
+        this.empilerMot(temp);
+        return word.toString();
+    
+    }
+
 
 
     @Override

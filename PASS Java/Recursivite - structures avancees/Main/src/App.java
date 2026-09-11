@@ -17,6 +17,8 @@ public class App {
         return tab[indice] + sommetab(tab, indice + 1);
     }
 
+    
+
 
     public static void main(String[] args) throws Exception {
         
@@ -30,12 +32,7 @@ public class App {
         pile.empiler("d");
         pile.empiler("i");
 
-        int taille = pile.getSize();
-        for (int i = 0; i<taille; i++) {
-            word += pile.depiler();
-        }
-        
-
-        System.out.println(word);
+        System.out.println(pile.resolveReverseWord());
+        System.out.println(pile.resolveWord());
     }
 }
