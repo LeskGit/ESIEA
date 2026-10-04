@@ -1,0 +1,8 @@
+# Fins de ligne normalisées (évite les faux "fichiers modifiés" sous Windows)
+* text=auto eol=lf
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.jpeg binary

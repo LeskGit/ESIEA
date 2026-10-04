@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": "mul99ux0h3iv",
+      "skip": [],
+      "titre": "Volley",
+      "type": "Séance",
+      "date": "2026-09-28",
+      "start": "20:30",
+      "end": "22:30",
+      "repeat": "weekly",
+      "until": "2026-12-31",
+      "note": "Séance entrainement volley"
+    }
+  ]
+}

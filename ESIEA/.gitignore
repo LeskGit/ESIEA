@@ -1,0 +1,12 @@
+# Obsidian (config locale, contient le lien privé de ton EDT)
+.obsidian/
+.trash/
+# Java / VS Code
+*.class
+bin/
+out/
+# Système
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp

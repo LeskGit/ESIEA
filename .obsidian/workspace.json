@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44993b5e9c92557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5650067e50b2ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cours evenement et proba"
+            }
+          },
+          {
+            "id": "3d178e56972fea69",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "exos dén-prob TD 1 2026"
+            }
+          },
+          {
+            "id": "3b4dd0aedf8ef5b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Chp4-Lois discrètes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chp4-Lois discrètes"
+            }
+          },
+          {
+            "id": "ed241afcc1e440d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exercice dapplication"
+            }
+          },
+          {
+            "id": "63c5575ca3a1b889",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probabilte discrete exos"
+            }
+          },
+          {
+            "id": "26ff13d42de297e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probabilte discrete exos"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6590e8738419f925",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab80f3a9eadc25c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07e648e2a483803",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb23c6a0c2a9bc34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2703f6c5f71a2060",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.76265335083008
+  },
+  "right": {
+    "id": "a9f93e0b692ab691",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7792eb6f849c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1428dbe59ce33be9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ESIEA/PASS Java/Methode - Classe/Code links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ed0a18947a19fc15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ESIEA/PASS Java/Methode - Classe/Code links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3753ceb9eb872422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bd64c1a9c5d0bc5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d4ea4e68bf0f479a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ESIEA/PASS Java/Methode - Classe/Code links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d7afa3f121f1ce11",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ef4a345abb9c815f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "d7f8884b6d716b31",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "26ff13d42de297e9",
+  "lastOpenFiles": [
+    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
+    "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Chp4-Lois discrètes.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Chp2-Variables aléatoires réelles finies.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf.opdownload",
+    "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf.opdownload",
+    "ESIEA/Cours/PASS Electronique/Decibel/Notes-Electronique-Decibels.md",
+    "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
+    "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
+    "ESIEA/Cours/PASS Electronique/Decibel/07_bode_rc.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/06_effet_temporel.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/05_passif_actif.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/04_fresnel_fc.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/03_equilibre_R_ZC.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/02_demi_puissance.png",
+    "ESIEA/Cours/PASS Electronique/Decibel/01_frequence_coupure.png",
+    "ESIEA/Cours/English/English Lessons.md",
+    "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/rituels-scrum.png",
+    "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/Méthodes Agiles.md",
+    "ESIEA/International mobility.md",
+    "ESIEA/Cours/OS/Cours - Système d'exploitation Séance 1-2.md",
+    "ESIEA/Cours/Architecture Système MI/Architecture Système MI.md",
+    "ESIEA/Cours/Architecture Système MI/Symbole.md",
+    "ESIEA/Cours/APIC/APIC - Action de promotion inf.md",
+    "Planning hebdomadaire.md",
+    "Planning perso.md",
+    "ESIEA/Cours/PASS Java/Variable - opérateur/Main/README.md",
+    "ESIEA/Cours/PASS Java/Variable - opérateur/Pass_Java_1.md",
+    "ESIEA/Cours/PASS Java/Tableau - Chaine/Main/README.md",
+    "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Main/README.md",
+    "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Exercice Reccursivité et structures avancées.md",
+    "ESIEA/Cours/PASS Java/Methode - Classe/Main/README.md",
+    "ESIEA/Cours/PASS Java/Methode - Classe/Code links.md",
+    "ESIEA/Cours/PASS Java/Conditionnelles répetitives/Main/README.md",
+    "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
+    "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
+    "ESIEA/Cours/_tmp_maths/Synthese_PASSMATHS3AFISA.md",
+    "ESIEA/Cours/_tmp_maths/Fiche_Rappels_Maths.md",
+    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
+    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
+    "Untitled.canvas"
+  ]
+}

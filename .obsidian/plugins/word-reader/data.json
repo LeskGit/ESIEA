@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "common": {
+    "language": "zh-CN",
+    "defaultZoomPercent": 100,
+    "largeFileWarningMb": 25
+  },
+  "docx": {
+    "defaultFitWidth": false,
+    "showOutlineByDefault": true,
+    "enableImagePreview": true
+  },
+  "pptx": {
+    "defaultFitWindow": true,
+    "showNavigationByDefault": true,
+    "showNotesByDefault": false
+  },
+  "xlsx": {
+    "defaultFitWidth": true
+  },
+  "readingStates": [
+    {
+      "path": "ESIEA/Projet Impact RSE/Fiche_Validation_Projet_PAIRSE.xlsx",
+      "mtime": 1788850272346,
+      "format": "xlsx",
+      "lastAccessed": 223,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/Projet Impact RSE/Ressource Le 21ème siècle sera celui de l’ingénieur manager - Roland Vardanega.docx",
+      "mtime": 1788850272314,
+      "format": "docx",
+      "lastAccessed": 224,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/PASS Electronique/TP-ARDUINO- PASS.docx",
+      "mtime": 1788764625150,
+      "format": "docx",
+      "lastAccessed": 573,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/Projet Impact RSE/Séance 1/Fiche_Validation_Projet_PAIRSE.xlsx",
+      "mtime": 1788850272346,
+      "format": "xlsx",
+      "lastAccessed": 574,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": false,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/Projet Impact RSE/Séance 1/Fiche introspective de constitution d’équipe.docx",
+      "mtime": 1788850272330,
+      "format": "docx",
+      "lastAccessed": 575,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/Projet Impact RSE/Séance 1/Ressource Le 21ème siècle sera celui de l’ingénieur manager - Roland Vardanega.docx",
+      "mtime": 1788850272314,
+      "format": "docx",
+      "lastAccessed": 576,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1.3,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/PASS Java/Recursivite - structures avancees/TP5_Complexite_Recherche_corrigé.docx",
+      "mtime": 1788780032553,
+      "format": "docx",
+      "lastAccessed": 577,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/PASS Java/Recursivite - structures avancees/Exemple pour Diapo 7.docx",
+      "mtime": 1789039625108,
+      "format": "docx",
+      "lastAccessed": 578,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    }
+  ]
+}

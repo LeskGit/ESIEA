@@ -1,0 +1,3 @@
+
+Sigma => Système
+Lambda => retard 

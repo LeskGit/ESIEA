@@ -1,0 +1,26 @@
+{
+  "format": {
+    "timeFormat": "HH:mm",
+    "dataViewSyntax": false
+  },
+  "calendars": {
+    "EDT ESIEA": {
+      "icsName": "EDT ESIEA",
+      "icsUrl": "https://sand.esiea.fr/Telechargements/ical/Edt_MEUNIER.ics?version=2026.4.7.2&icalsecurise=5949D5839FDB104C4CF2EF4A0BF7FA0F3D35244057FB7802AA29ECCE3FDE4463AECA107FD489948A93A4675644AE5CA7&param=643d5b312e2e36325d2666683d3126663d31",
+      "ownerEmail": "",
+      "format": {
+        "checkbox": false,
+        "includeEventEndTime": true,
+        "icsName": false,
+        "summary": true,
+        "location": true,
+        "description": false,
+        "calendarType": "remote",
+        "showAttendees": false,
+        "showOngoing": true,
+        "showTransparentEvents": false
+      },
+      "calendarType": "remote"
+    }
+  }
+}
