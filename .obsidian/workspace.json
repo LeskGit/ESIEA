@@ -4,11 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "b44993b5e9c92557",
+        "id": "c9ce6d0a3b36a158",
         "type": "tabs",
         "children": [
           {
-            "id": "b5650067e50b2ea2",
+            "id": "50079c9c7354f329",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD4- Lois-Discrètes-26-27"
+            }
+          },
+          {
+            "id": "bdde8347cd04ee25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Chp2-Variables aléatoires réelles finies.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chp2-Variables aléatoires réelles finies"
+            }
+          },
+          {
+            "id": "5821cdbd5a05575f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probabilte discrete exos"
+            }
+          },
+          {
+            "id": "baa7d127c8fe696e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "cours sur les variables et lois discrètes (1)"
+            }
+          },
+          {
+            "id": "74ca62a9e6dbc260",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD1et2-V.A-25-26"
+            }
+          },
+          {
+            "id": "c7d39d2838685bac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "cours déno-prob"
+            }
+          },
+          {
+            "id": "bc2777bf9a3b2488",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,67 +94,19 @@
             }
           },
           {
-            "id": "3d178e56972fea69",
+            "id": "c04083edf4fa3634",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf"
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Cours-Variables aléatoires réelles à densité.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "exos dén-prob TD 1 2026"
-            }
-          },
-          {
-            "id": "3b4dd0aedf8ef5b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Chp4-Lois discrètes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chp4-Lois discrètes"
-            }
-          },
-          {
-            "id": "ed241afcc1e440d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercice dapplication"
-            }
-          },
-          {
-            "id": "63c5575ca3a1b889",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Probabilte discrete exos"
-            }
-          },
-          {
-            "id": "26ff13d42de297e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Probabilte discrete exos"
+              "title": "Cours-Variables aléatoires réelles à densité"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,8 +261,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -278,22 +302,27 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26ff13d42de297e9",
+  "active": "bdde8347cd04ee25",
   "lastOpenFiles": [
-    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
-    "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf",
     "ESIEA/Cours/Probabilités et Statistiques/Chp4-Lois discrètes.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Chp2-Variables aléatoires réelles finies.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf.opdownload",
     "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf.opdownload",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
+    "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours-Variables aléatoires réelles à densité.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
+    "ESIEA/Cours/English/English Lessons.md",
+    "ESIEA/Cours/POO/TD2/TD2/README.md",
+    "ESIEA/Cours/BD/TD-TP/TP1_modelisation.md",
+    "Excalidraw/Drawing 2026-10-06 09.09.36.excalidraw.md",
     "ESIEA/Cours/PASS Electronique/Decibel/Notes-Electronique-Decibels.md",
     "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
     "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
@@ -304,7 +333,6 @@
     "ESIEA/Cours/PASS Electronique/Decibel/03_equilibre_R_ZC.png",
     "ESIEA/Cours/PASS Electronique/Decibel/02_demi_puissance.png",
     "ESIEA/Cours/PASS Electronique/Decibel/01_frequence_coupure.png",
-    "ESIEA/Cours/English/English Lessons.md",
     "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/rituels-scrum.png",
     "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/Méthodes Agiles.md",
     "ESIEA/International mobility.md",
@@ -323,9 +351,6 @@
     "ESIEA/Cours/PASS Java/Methode - Classe/Code links.md",
     "ESIEA/Cours/PASS Java/Conditionnelles répetitives/Main/README.md",
     "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
-    "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
-    "ESIEA/Cours/_tmp_maths/Synthese_PASSMATHS3AFISA.md",
-    "ESIEA/Cours/_tmp_maths/Fiche_Rappels_Maths.md",
     "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
     "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
     "Untitled.canvas"

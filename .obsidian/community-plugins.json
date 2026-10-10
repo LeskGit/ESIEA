@@ -3,5 +3,7 @@
   "word-reader",
   "obsidian-git",
   "dataview",
-  "ics"
+  "ics",
+  "obsidian-excalidraw-plugin",
+  "obsidian-plantuml"
 ]

@@ -162,6 +162,44 @@
         "panelVisible": true,
         "collapsedIds": []
       }
+    },
+    {
+      "path": "ESIEA/Cours/English/Presentation Techniques-20261008/3a FISA L2 LESSON PLAN (26-27).docx",
+      "mtime": 1791457653513,
+      "format": "docx",
+      "lastAccessed": 580,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 1390
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "ESIEA/Cours/English/TOEIC Intro-20261008/TOEIC introd..pptx",
+      "mtime": 1791457743638,
+      "format": "pptx",
+      "lastAccessed": 581,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0,
+        "page": 2
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": true
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": [],
+        "notesVisible": false
+      }
     }
   ]
 }

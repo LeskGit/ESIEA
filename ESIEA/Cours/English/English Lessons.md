@@ -14,3 +14,32 @@ Exercise 3
 3. Lack of time and delayed arrivals of samples
 4. 50% of consummers like the product, lab tests finished on time
 5. Smells like fish
+
+
+
+### TOEIC Listening
+
+- 1 : a
+- 2 : d
+
+- a
+- b
+- a
+- c
+
+
+- b
+- d
+- a
+
+- a
+- c
+- d
+
+- d
+- d
+- b
+
+- d
+- b
+- c
