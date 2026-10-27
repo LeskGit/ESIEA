@@ -4,109 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ce6d0a3b36a158",
+        "id": "9ccfca4196dc537d",
         "type": "tabs",
         "children": [
           {
-            "id": "50079c9c7354f329",
+            "id": "17fb46b9b7c4a4b0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf"
+                "file": "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TD4- Lois-Discrètes-26-27"
-            }
-          },
-          {
-            "id": "bdde8347cd04ee25",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Chp2-Variables aléatoires réelles finies.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chp2-Variables aléatoires réelles finies"
-            }
-          },
-          {
-            "id": "5821cdbd5a05575f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Probabilte discrete exos"
-            }
-          },
-          {
-            "id": "baa7d127c8fe696e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "cours sur les variables et lois discrètes (1)"
-            }
-          },
-          {
-            "id": "74ca62a9e6dbc260",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TD1et2-V.A-25-26"
-            }
-          },
-          {
-            "id": "c7d39d2838685bac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "cours déno-prob"
-            }
-          },
-          {
-            "id": "bc2777bf9a3b2488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cours evenement et proba"
-            }
-          },
-          {
-            "id": "c04083edf4fa3634",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Cours-Variables aléatoires réelles à densité.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Cours-Variables aléatoires réelles à densité"
+              "title": "TDAO3-SD_2024-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,19 +219,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bdde8347cd04ee25",
+  "active": "17fb46b9b7c4a4b0",
   "lastOpenFiles": [
-    "ESIEA/Cours/Probabilités et Statistiques/Chp4-Lois discrètes.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
-    "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Cours-Variables aléatoires réelles à densité.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Exercice dapplication.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA033.sci",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreuxF.wav",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreuxB.wav",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA032.sci",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreux.wav",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreux (1).wav",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA03.sci",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/Nouveau dossier",
     "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf",
+    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf.opdownload",
+    "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
+    "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
     "ESIEA/Cours/English/English Lessons.md",
     "ESIEA/Cours/POO/TD2/TD2/README.md",
     "ESIEA/Cours/BD/TD-TP/TP1_modelisation.md",
@@ -349,8 +265,6 @@
     "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Exercice Reccursivité et structures avancées.md",
     "ESIEA/Cours/PASS Java/Methode - Classe/Main/README.md",
     "ESIEA/Cours/PASS Java/Methode - Classe/Code links.md",
-    "ESIEA/Cours/PASS Java/Conditionnelles répetitives/Main/README.md",
-    "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
     "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
     "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
     "Untitled.canvas"
