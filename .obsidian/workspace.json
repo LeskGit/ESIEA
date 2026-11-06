@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccfca4196dc537d",
+        "id": "59fe0f1e4f604513",
         "type": "tabs",
         "children": [
           {
-            "id": "17fb46b9b7c4a4b0",
+            "id": "9b088c5957391da2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf"
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TDAO3-SD_2024-2025"
+              "title": "TD4- Lois-Discrètes-26-27"
+            }
+          },
+          {
+            "id": "60cbc980bde1fe5d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4_Correction_JKM.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD4_Correction_JKM"
+            }
+          },
+          {
+            "id": "7ce199ef6577ff4e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD6-Lois.Continues"
+            }
+          },
+          {
+            "id": "fd23f049b12bf35b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TD1et2-V.A-25-26"
+            }
+          },
+          {
+            "id": "613c1c306af9b6c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/exos variables aleatoires continues.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "exos variables aleatoires continues"
+            }
+          },
+          {
+            "id": "8f6a69d8955c8e2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fiche méthode — Lois discrètes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,23 +280,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17fb46b9b7c4a4b0",
+  "active": "fd23f049b12bf35b",
   "lastOpenFiles": [
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA033.sci",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreuxF.wav",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreuxB.wav",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA032.sci",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreux.wav",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/affreux (1).wav",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDA03.sci",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/Nouveau dossier",
+    "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/exos variables aleatoires continues.pdf",
     "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf",
-    "ESIEA/Cours/Traitement Numérique du Signal/TD/TD3/TDAO3-SD_2024-2025.pdf.opdownload",
+    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Traduire un énoncé de probas.pdf",
+    "ESIEA/Cours/English/Facial Recognition in China-20261105/3a FISA L5 Worksheet (25-26).docx",
+    "ESIEA/Cours/English/Emailing-20261105/Email style (students).pdf",
+    "ESIEA/Cours/English/English Lessons.md",
+    "ESIEA/Cours/English/Emailing-20261105/Practice.pdf",
+    "ESIEA/Cours/English/Facial Recognition in China-20261105",
+    "ESIEA/Cours/English/Emailing-20261105/Untitled document.docx",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/17 ODD.jpg",
     "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
     "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
-    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
-    "ESIEA/Cours/English/English Lessons.md",
     "ESIEA/Cours/POO/TD2/TD2/README.md",
     "ESIEA/Cours/BD/TD-TP/TP1_modelisation.md",
     "Excalidraw/Drawing 2026-10-06 09.09.36.excalidraw.md",
@@ -266,7 +328,6 @@
     "ESIEA/Cours/PASS Java/Methode - Classe/Main/README.md",
     "ESIEA/Cours/PASS Java/Methode - Classe/Code links.md",
     "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
-    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
     "Untitled.canvas"
   ]
 }
