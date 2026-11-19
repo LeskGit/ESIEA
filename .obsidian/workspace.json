@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59fe0f1e4f604513",
+        "id": "89ac36239bd4020c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b088c5957391da2",
+            "id": "ab6293cb1c220223",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf"
+                "file": "ESIEA/Cours/Traitement Numérique du Signal/cours4-2026-2027-FISA.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TD4- Lois-Discrètes-26-27"
-            }
-          },
-          {
-            "id": "60cbc980bde1fe5d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD4_Correction_JKM.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TD4_Correction_JKM"
-            }
-          },
-          {
-            "id": "7ce199ef6577ff4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TD6-Lois.Continues"
-            }
-          },
-          {
-            "id": "fd23f049b12bf35b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TD1et2-V.A-25-26"
-            }
-          },
-          {
-            "id": "613c1c306af9b6c3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/exos variables aleatoires continues.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "exos variables aleatoires continues"
-            }
-          },
-          {
-            "id": "8f6a69d8955c8e2d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fiche méthode — Lois discrètes"
+              "title": "cours4-2026-2027-FISA"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,25 +214,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "fd23f049b12bf35b",
+  "active": "ab6293cb1c220223",
   "lastOpenFiles": [
-    "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf",
+    "ESIEA/Cours/Traitement Numérique du Signal/cours5-2026-2027-FISA.pdf",
+    "ESIEA/Cours/PASS Electronique/filtre passif.pdf",
+    "ESIEA/Cours/PASS Electronique/cours mise a niveau electronique 01092026.pdf",
+    "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
+    "ESIEA/Cours/PASS Electronique/cours mise a niveau electronique 3+4.pdf",
+    "ESIEA/Cours/PASS Electronique/mise a niveau electronique diagramme de bode +chapitre 5.pdf",
+    "ESIEA/Cours/PASS Electronique/TD bode.pdf",
+    "ESIEA/Cours/PASS Electronique/TP N°2 Diode.pdf",
+    "ESIEA/Cours/PASS Electronique/presentation carte arduino.pdf",
+    "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
+    "ESIEA/Cours/Traitement Numérique du Signal/cours1-2026-2027-FISA.pdf",
     "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/exos variables aleatoires continues.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Lois discrètes.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
-    "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Traduire un énoncé de probas.pdf",
-    "ESIEA/Cours/English/Facial Recognition in China-20261105/3a FISA L5 Worksheet (25-26).docx",
-    "ESIEA/Cours/English/Emailing-20261105/Email style (students).pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf",
     "ESIEA/Cours/English/English Lessons.md",
-    "ESIEA/Cours/English/Emailing-20261105/Practice.pdf",
-    "ESIEA/Cours/English/Facial Recognition in China-20261105",
-    "ESIEA/Cours/English/Emailing-20261105/Untitled document.docx",
     "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
     "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/17 ODD.jpg",
     "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
@@ -302,8 +241,6 @@
     "ESIEA/Cours/BD/TD-TP/TP1_modelisation.md",
     "Excalidraw/Drawing 2026-10-06 09.09.36.excalidraw.md",
     "ESIEA/Cours/PASS Electronique/Decibel/Notes-Electronique-Decibels.md",
-    "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
-    "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
     "ESIEA/Cours/PASS Electronique/Decibel/07_bode_rc.png",
     "ESIEA/Cours/PASS Electronique/Decibel/06_effet_temporel.png",
     "ESIEA/Cours/PASS Electronique/Decibel/05_passif_actif.png",
