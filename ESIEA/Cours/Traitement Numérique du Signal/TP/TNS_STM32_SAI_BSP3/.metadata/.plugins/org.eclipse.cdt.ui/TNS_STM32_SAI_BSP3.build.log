@@ -1,0 +1,10 @@
+15:47:18 **** Incremental Build of configuration Debug for project TNS_STM32_SAI_BSP3 ****
+make -j16 all 
+arm-none-eabi-size  TNS_STM32_SAI_BSP3.elf 
+   text	   data	    bss	    dec	    hex	filename
+  48320	  16476	   5052	  69848	  110d8	TNS_STM32_SAI_BSP3.elf
+Finished building: default.size.stdout
+ 
+
+15:47:19 Build Finished. 0 errors, 0 warnings. (took 542ms)
+

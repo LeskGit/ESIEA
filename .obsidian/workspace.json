@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "89ac36239bd4020c",
+        "id": "d8ea3c63bf917467",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6293cb1c220223",
+            "id": "10ef34eba16606d2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ESIEA/Cours/POO/01_Fondamentaux_Classes_UML_Heritage_Polymorphisme_FR.pdf"
+                "file": "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01_Fondamentaux_Classes_UML_Heritage_Polymorphisme_FR"
+              "title": "TP 2 - Configuration LAN  Routage Inter-Réseaux"
+            }
+          },
+          {
+            "id": "8bc59a69b435f46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESIEA/Cours/Réseau/TP/TP2 - Exercices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP2 - Exercices"
             }
           }
         ]
@@ -81,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.76265335083008
+    "width": 200
   },
   "right": {
     "id": "a9f93e0b692ab691",
@@ -217,19 +231,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab6293cb1c220223",
+  "active": "10ef34eba16606d2",
   "lastOpenFiles": [
-    "ESIEA/Cours/Traitement Numérique du Signal/cours4-2026-2027-FISA.pdf",
-    "ESIEA/Cours/POO/Cours_4_FR.pdf",
-    "ESIEA/Cours/POO/Cours_4_FR.pdf.opdownload",
-    "ESIEA/Cours/POO/ALT_03_Generiques_Collections_FR.pdf",
-    "ESIEA/Cours/POO/ALT_03_Generiques_Collections_FR.pdf.opdownload",
-    "ESIEA/Cours/POO/Cours_3_FR.pdf",
-    "ESIEA/Cours/POO/Cours_3_FR.pdf.opdownload",
-    "ESIEA/Cours/POO/02_Heritage_Abstract_Interfaces_Iterateurs_Exceptions_Patterns_FR.pdf",
-    "ESIEA/Cours/POO/02_Heritage_Abstract_Interfaces_Iterateurs_Exceptions_Patterns_FR.pdf.opdownload",
-    "ESIEA/Cours/POO/Cours_2_FR.pdf",
-    "ESIEA/Cours/POO/Cours_2_FR.pdf.opdownload",
+    "ESIEA/Cours/Réseau/TP/TP2 - Exercices.md",
+    "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TP1 - TNS.md",
+    "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf.opdownload",
+    "ESIEA/Cours/Réseau/TP",
+    "ESIEA/Cours/Réseau/Nouveau dossier",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/FISA_37_TNS_2026-27_TP1_MEUNIER_CHESNEAU.pdf",
+    "IMG_2880.jpeg",
+    "IMG_2875.jpeg",
+    "IMG_2878.jpeg",
+    "2052.jpg",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/TNS_STM32_SAI_BSP3.elf",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.o",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.cyclo",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.su",
+    "Pasted image 20261124152013.png",
+    "Pasted image 20261124151714.png",
+    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/sysmem.su",
+    "Pasted image 20261124142721.png",
     "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
     "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
     "ESIEA/Cours/English/English Lessons.md",
@@ -243,12 +265,6 @@
     "ESIEA/Cours/PASS Electronique/Decibel/Notes-Electronique-Decibels.md",
     "ESIEA/Cours/PASS Electronique/Decibel/07_bode_rc.png",
     "ESIEA/Cours/PASS Electronique/Decibel/06_effet_temporel.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/05_passif_actif.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/04_fresnel_fc.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/03_equilibre_R_ZC.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/02_demi_puissance.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/01_frequence_coupure.png",
-    "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/rituels-scrum.png",
     "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/Méthodes Agiles.md",
     "ESIEA/International mobility.md",
     "ESIEA/Cours/OS/Cours - Système d'exploitation Séance 1-2.md",
@@ -262,9 +278,6 @@
     "ESIEA/Cours/PASS Java/Tableau - Chaine/Main/README.md",
     "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Main/README.md",
     "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Exercice Reccursivité et structures avancées.md",
-    "ESIEA/Cours/PASS Java/Methode - Classe/Main/README.md",
-    "ESIEA/Cours/PASS Java/Methode - Classe/Code links.md",
-    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
     "Untitled.canvas"
   ]
 }
