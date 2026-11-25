@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406.5
   },
   "right": {
     "id": "a9f93e0b692ab691",
@@ -231,26 +231,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "10ef34eba16606d2",
+  "active": "a07e648e2a483803",
   "lastOpenFiles": [
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/OneDrive_1_25-11-2026/Compte_rendu_reunion_equipe_37_Unbeelievable_25-11-2026.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/OneDrive_1_25-11-2026/Compte_rendu_reunion_equipe_37_Unbeelievable_24-11-2026.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/OneDrive_1_25-11-2026",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/OneDrive_1_25-11-2026.zip",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/Compte_rendu_reunion_equipe_37_Unbeelievable_25-11-2026.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/Compte_rendu_reunion_equipe_37_Unbeelievable_24-11-2026.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/Compte_rendu_reunion_equipe_PAIRSE.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/etudes/CONCOURS ELECTRO.docx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/etudes/RuchESIEA présentation.pptx",
+    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/compte-rendu/Compte_rendu_RDV_mentorat_equipe_37_Unbeelievable_06-11-2026.docx",
     "ESIEA/Cours/Réseau/TP/TP2 - Exercices.md",
     "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf",
     "ESIEA/Cours/Traitement Numérique du Signal/TP/TP1 - TNS.md",
-    "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf.opdownload",
-    "ESIEA/Cours/Réseau/TP",
-    "ESIEA/Cours/Réseau/Nouveau dossier",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/FISA_37_TNS_2026-27_TP1_MEUNIER_CHESNEAU.pdf",
     "IMG_2880.jpeg",
     "IMG_2875.jpeg",
     "IMG_2878.jpeg",
     "2052.jpg",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/TNS_STM32_SAI_BSP3.elf",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.o",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.cyclo",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.su",
     "Pasted image 20261124152013.png",
     "Pasted image 20261124151714.png",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/sysmem.su",
     "Pasted image 20261124142721.png",
     "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
     "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
