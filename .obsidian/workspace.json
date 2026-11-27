@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ea3c63bf917467",
+        "id": "cf3cbab390f09345",
         "type": "tabs",
         "children": [
           {
-            "id": "10ef34eba16606d2",
+            "id": "8eeb0c14e6c9668e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TP 2 - Configuration LAN  Routage Inter-Réseaux"
-            }
-          },
-          {
-            "id": "8bc59a69b435f46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESIEA/Cours/Réseau/TP/TP2 - Exercices.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TP2 - Exercices"
+              "title": "New tab"
             }
           }
         ]
@@ -231,40 +215,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "10ef34eba16606d2",
+  "active": "a07e648e2a483803",
   "lastOpenFiles": [
+    "ESIEA/Cours/Probabilités et Statistiques/exos variables aleatoires continues.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/exos dén-prob TD 1 2026.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/cours sur les variables et lois discrètes (1).pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/cours déno-prob.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
+    "ESIEA/Cours/Probabilités et Statistiques/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
+    "ESIEA/Cours/Probabilités et Statistiques/TD6-Lois.Continues.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD4_Correction_JKM.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD4- Lois-Discrètes-26-27.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/TD1et2-V.A-25-26.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Probabilte discrete exos.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Memo_denombrement.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Fiche méthode — Traduire un énoncé de probas.pdf",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
+    "ESIEA/Cours/Probabilités et Statistiques/TP/WhatsApp Image 2026-09-12 at 12.20.40.jpeg",
+    "ESIEA/Cours/Probabilités et Statistiques/TP/WhatsApp Image 2026-09-12 at 12.20.38.jpeg",
+    "ESIEA/Cours/Probabilités et Statistiques/Cours/Cours evenement et proba.md",
     "ESIEA/Cours/Réseau/TP/TP2 - Exercices.md",
-    "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf",
     "ESIEA/Cours/Traitement Numérique du Signal/TP/TP1 - TNS.md",
-    "ESIEA/Cours/Réseau/TP/TP 2 - Configuration LAN  Routage Inter-Réseaux.pdf.opdownload",
-    "ESIEA/Cours/Réseau/TP",
-    "ESIEA/Cours/Réseau/Nouveau dossier",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/FISA_37_TNS_2026-27_TP1_MEUNIER_CHESNEAU.pdf",
     "IMG_2880.jpeg",
     "IMG_2875.jpeg",
     "IMG_2878.jpeg",
     "2052.jpg",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/TNS_STM32_SAI_BSP3.elf",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.o",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.cyclo",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/main.su",
     "Pasted image 20261124152013.png",
     "Pasted image 20261124151714.png",
-    "ESIEA/Cours/Traitement Numérique du Signal/TP/TNS_STM32_SAI_BSP3/TNS_STM32_SAI_BSP3/Debug/Core/Src/sysmem.su",
-    "Pasted image 20261124142721.png",
     "ESIEA/Cours/PASS Electronique/Cours - Arduino.md",
     "ESIEA/Cours/PASS Electronique/Pass Electronique - Cours.md",
     "ESIEA/Cours/English/English Lessons.md",
-    "ESIEA/Cours/Probabilités et Statistiques/Cours evenement et proba.md",
-    "ESIEA/Projets/Projet Impact RSE/Unbeelivable/doc_pairse/17 ODD.jpg",
     "ESIEA/Cours/Pass Maths/Fiche_Rappels_Maths.md",
     "ESIEA/Cours/Pass Maths/Synthese_PASSMATHS3AFISA.md",
     "ESIEA/Cours/POO/TD2/TD2/README.md",
     "ESIEA/Cours/BD/TD-TP/TP1_modelisation.md",
     "Excalidraw/Drawing 2026-10-06 09.09.36.excalidraw.md",
     "ESIEA/Cours/PASS Electronique/Decibel/Notes-Electronique-Decibels.md",
-    "ESIEA/Cours/PASS Electronique/Decibel/07_bode_rc.png",
-    "ESIEA/Cours/PASS Electronique/Decibel/06_effet_temporel.png",
     "ESIEA/Projets/Projet Impact RSE/Organisation Projet/Méthodes Agiles/Méthodes Agiles.md",
     "ESIEA/International mobility.md",
     "ESIEA/Cours/OS/Cours - Système d'exploitation Séance 1-2.md",
@@ -277,7 +263,6 @@
     "ESIEA/Cours/PASS Java/Variable - opérateur/Pass_Java_1.md",
     "ESIEA/Cours/PASS Java/Tableau - Chaine/Main/README.md",
     "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Main/README.md",
-    "ESIEA/Cours/PASS Java/Recursivite - structures avancees/Exercice Reccursivité et structures avancées.md",
     "Untitled.canvas"
   ]
 }
